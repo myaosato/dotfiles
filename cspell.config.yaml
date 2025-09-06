@@ -4,6 +4,20 @@ dictionaryDefinitions: []
 dictionaries: []
 words: []
 ignoreWords:
+  - checkwinsize
+  - dircolors
+  - fgrep
+  - histappend
+  - ignoreboth
+  - lesspipe
   - libpam
+  - rxvt
+  - setaf
+  - setf
+  - SHOWDIRTYSTATE
+  - SHOWSTASHSTATE
+  - SHOWUNTRACKEDFILES
+  - SHOWUPSTREAM
+  - vdir
 import:
   - ./cspell.local.yaml

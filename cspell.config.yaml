@@ -3,6 +3,7 @@ ignorePaths: []
 dictionaryDefinitions: []
 dictionaries: []
 words: []
-ignoreWords: []
+ignoreWords:
+  - libpam
 import:
   - ./cspell.local.yaml
